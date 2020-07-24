@@ -1,21 +1,23 @@
 # TO USE
 
-Go to the green button in the top right & click on "download zip". Unzip the file. You should see an html file for the whole book, a folder with html files for each chapter, and then a number of other files that help your browser style the book's appearance and insert images.
-Doubleclicking on any .html file should open it in your browser of choice, or you can drag a file into a browser window. Voila!
+To get a copy of this ebook, go to the green button in the top right & click on "download zip". Unzip the file. You should see an html file for the whole book, a folder called "chapters" that contains each section of the book as its own html file, and a few other files/folders that will help your browser style the book's appearance and insert images.
+Double-clicking on any html file will likely open it in your default browser; if that doesn't work, you can drag an html file into a browser window. Voila!
 
 If you want to quickly access an online version of the textbook, without having to download anything, go to https://ancient-geek-git.github.io/Civil-Procedure-10th-Ed.
 
 # ABOUT
 
-This is a patched together html e-book. It's meant to allow students to access their textbook in a browser without needing to use the distracting interface that textbook publishers force students to use. With this version, you can print as much as you want, edit the text to make corrections, access the book from unlimited devices, and keep it indefinitely without worrying that a company will cut off your access to the text that you paid for.
+This is a patched together html e-book. It's meant to allow students to access their textbook in a browser without needing to use the distracting interface that the big textbook publishers force on students. With this version, you can print as much as you want, edit the text directly to make corrections\*, access the book from unlimited devices, and keep it indefinitely without worrying that a company will cut off your access to the text.
 
-These html files are also easier to use than a scanned pdf of the book. An html file of the full casebook is hundreds of times smaller than an equivalent pdf file. As long as you're using a computer from this century, having a dozen casebooks in html format open at the same time wouldn't make your computer freeze or slow down. 
+These html files are also hopefully easier to use than a scanned pdf of the book. An html file of the entire casebook is thousands of times smaller than an equivalent pdf file. On basically any computer from this millennium, having a dozen casebooks in html format open at the same time wouldn't make your computer slow down or freeze.
 
-Clcking on footnotes and other navigation links within the document will jump you to the referenced section. There are also separate TOC and Index files; clicking on a page number hyperlink from one of these files will first open the html of the whole book and then jump to the page you selected.  
+Clicking on footnotes and other navigation links within the document will jump you to the referenced section. There are also separate TOC and Index files in the chapters folder; clicking on a page number hyperlink from one of these files will first open the html of the whole book and then. after a short pause, jump to the page you selected.  
 
-No annotation tools—that's something you'd have to use the publishers' websites for.
+No annotation tools—that's a feature you would have to get from the publishers' websites.
 
 # Caution
 
 If you rename files, especially the file of the whole book, the links in the TOC and Index files will break.
-The book's appearance will change if you move the html files out of the folder with the css file in it.
+The book's appearance will change if you move the html files into a different place on your computer than the folder containing the css file and images folder.
+
+\* *You need to be comfortable editing html files to do this. If that's something you can do, you can easily supplement the casebook by inserting diagrams, pictures, notes, colored backgrounds to help you find a section, etc.
